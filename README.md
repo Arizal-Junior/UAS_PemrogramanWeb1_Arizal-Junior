@@ -1,6 +1,6 @@
 # UAS Pemrograman Web 1 - Arizal Junior
 
-## Web Kasir Cafe (Progress Project)
+## Web Kasir Cafe (Progress)
 
 Berikut adalah dokumentasi progress dari web kasir yang telah dibuat:
 
