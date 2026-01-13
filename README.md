@@ -5,7 +5,7 @@
 Berikut adalah dokumentasi progress dari web kasir yang telah dibuat:
 
 ### Halaman Login
-![Screenshot 1](https://github.com/user-attachments/assets/1495d88e-0dff-4740-9c9f-23177748d92d)
+![Halaman Login](https://github.com/user-attachments/assets/1495d88e-0dff-4740-9c9f-23177748d92d)
 
 ### Halaman Dashboard
-![Screenshot 2](https://github.com/user-attachments/assets/20843aee-1f37-444a-8780-8766cdd4113f)
+![Halaman Dashboard](https://github.com/user-attachments/assets/0a7a5565-f58b-4a2b-8ea9-363a414110eb)
