@@ -2,7 +2,7 @@
 
 ## Web Kasir Cafe (Progress Project)
 
-Berikut adalah dokumentasi progress dari aplikasi web kasir yang telah dibuat:
+Berikut adalah dokumentasi progress dari web kasir yang telah dibuat:
 
 ### Halaman Login
 ![Screenshot 1](https://github.com/user-attachments/assets/1495d88e-0dff-4740-9c9f-23177748d92d)
